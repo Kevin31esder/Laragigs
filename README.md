@@ -1,4 +1,6 @@
 Uso
+
+
 Configuracionde la base de datos
 Usamos Mysql en este caso. Para usar algo diferente abrir  config/Database.php y cambia los valores .
 
